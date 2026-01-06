@@ -1,11 +1,4 @@
 """
-<<<<<<< HEAD
-Hier eine Klasse DataSet implementieren.
-
-"""	
-
-# Hier TODO
-=======
 Hier eine Klasse `DataSet` implementieren.
 
 Die Klasse muss eine Unterklasse von `dataset.DataSetInterface` sein
@@ -21,4 +14,3 @@ Alle drei Dateien liegen im gleichen Ordner.
 """	
 
 # TODO
->>>>>>> origin/implementation_datei
