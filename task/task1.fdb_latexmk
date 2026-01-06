@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1767704688.74233 "/Users/stepankonoplianko/IT_Projects/Code/Uni/WerkzeugeWisArb/aufgabe3/task/task1.tex" "task1.pdf" "task1" 1767704689.02967 0
-  "../diagram/classes_files.png" 1767699942.18696 34362 487f4058e53326bba1c505fd117a53ef ""
-  "/Users/stepankonoplianko/IT_Projects/Code/Uni/WerkzeugeWisArb/aufgabe3/task/task1.tex" 1767704687.99769 4144 c0d2a52d0132d49f1f3b06c0faf27a76 ""
+["pdflatex"] 1767706987.65089 "/Users/stepankonoplianko/IT_Projects/Code/Uni/WerkzeugeWisArb/aufgabe3/task/task1.tex" "task1.pdf" "task1" 1767706987.91594 0
+  "../diagram/classes_files_new.pdf" 1767706804.14777 20056 1404b4c0b5f7567e3d071f42229bc80a ""
+  "/Users/stepankonoplianko/IT_Projects/Code/Uni/WerkzeugeWisArb/aufgabe3/task/task1.tex" 1767706986.81048 4148 20404f581e94c5856d52179f0e8759c1 ""
   "/Users/stepankonoplianko/Library/texlive/2025basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1095.600pk" 1767704517.34871 28952 485e1918a34c87d1ce58f811ed3e7ba6 ""
   "/Users/stepankonoplianko/Library/texlive/2025basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk" 1767704515.62747 31928 3fd52c2e7b5bdee2b1009dafb9e7ca6f ""
   "/Users/stepankonoplianko/Library/texlive/2025basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk" 1767704516.21114 40112 1849fdb328f6afebc13bd748f142877c ""
@@ -94,10 +94,10 @@
   "/usr/local/texlive/2025basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1767702202 79187 04b17f8738f833a5a5f7867124477b59 ""
   "/usr/local/texlive/2025basic/texmf-var/web2c/pdftex/pdflatex.fmt" 1767702176 2663821 b9f6d51a7b2207398988de1b5b6e64ae ""
   "/usr/local/texlive/2025basic/texmf.cnf" 1741448314 628 81d1ada0f601fb1ffa62f1323192d946 ""
-  "task1.aux" 1767704688.98841 1005 b93d081ce1b3401b7824d0b32cd287a3 "pdflatex"
-  "task1.out" 1767704688.98892 477 7249817f385bec9cbdf4a9c34f86770c "pdflatex"
-  "task1.tex" 1767704687.99769 4144 c0d2a52d0132d49f1f3b06c0faf27a76 ""
-  "task1.toc" 1767704688.9891 384 8a6d1a91966d9906e89380308b7975cd "pdflatex"
+  "task1.aux" 1767706987.87513 1005 b93d081ce1b3401b7824d0b32cd287a3 "pdflatex"
+  "task1.out" 1767706987.87589 477 7249817f385bec9cbdf4a9c34f86770c "pdflatex"
+  "task1.tex" 1767706986.81048 4148 20404f581e94c5856d52179f0e8759c1 ""
+  "task1.toc" 1767706987.87625 384 8a6d1a91966d9906e89380308b7975cd "pdflatex"
   (generated)
   "task1.aux"
   "task1.log"
